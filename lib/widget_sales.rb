@@ -1,5 +1,4 @@
-require "widget_sales/version"
-
+require "widget_sales/sop"
 module WidgetSales
-  # Your code goes here...
+    # The main interface in found in SOP
 end
